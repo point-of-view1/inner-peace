@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://inner-peace1.onrender.com/sitemap.xml
